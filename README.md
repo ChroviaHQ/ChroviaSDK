@@ -6,6 +6,12 @@ Kernel capabilities live in the browser, not in injected scripts. You grant them
 
 [Website](https://console.getchrovia.com) · [SDK](https://console.getchrovia.com/products/sdk) · [Download](https://console.getchrovia.com/download) · [Studio](https://console.getchrovia.com/products/sdk#studio)
 
+## Development Journal / 开发日志
+
+Notes and product stories from building browsers with ChroviaSDK, published in [English](devlogs/en/) and [简体中文](devlogs/zh/).
+
+- **Building Merca with ChroviaSDK: A Browser Built for Multi-Store Commerce** — [English](devlogs/en/building-merca-with-chrovia-sdk.md) / [中文](devlogs/zh/building-merca-with-chrovia-sdk.md)
+
 ## Why not fork Chromium yourself
 
 Starting from Chromium is a high bar: multi-platform builds, capability plumbing, a distribution story, and a way to turn features on and off per customer.
