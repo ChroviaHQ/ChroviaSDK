@@ -196,7 +196,7 @@ Products built with ChroviaSDK:
 | Product | What it is |
 | --- | --- |
 | [Persona Hub](https://console.getchrovia.com/products/persona-hub) | Isolated multi-account browser identities |
-| [美客浏览器（Merca）](https://merca.getchrovia.com) | Multi-store operations; each store has its own node and login environment |
+| [美刻浏览器（Merca）](https://merca.getchrovia.com) | Multi-store operations; each store has its own node and login environment |
 | [Chrovia Studio](https://console.getchrovia.com/products/sdk#studio) | Local gallery of kernel demos for SDK developers |
 
 ## Requirements
