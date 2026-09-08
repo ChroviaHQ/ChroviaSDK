@@ -10,6 +10,7 @@ Kernel capabilities live in the browser, not in injected scripts. Enable them wi
 
 Notes and product stories from building browsers with ChroviaSDK, published in [English](devlogs/en/) and [简体中文](devlogs/zh/).
 
+- **Amazon Passkeys: What Cross-Border Sellers Need to Know About Account Linking, Devices, and Credential Management** — [English](devlogs/en/passkeys-for-cross-border-sellers.md) / [中文](devlogs/zh/passkeys-for-cross-border-sellers.md)
 - **Building Merca with ChroviaSDK: A Browser Built for Multi-Store Commerce** — [English](devlogs/en/building-merca-with-chrovia-sdk.md) / [中文](devlogs/zh/building-merca-with-chrovia-sdk.md)
 
 ## Why not fork Chromium yourself
