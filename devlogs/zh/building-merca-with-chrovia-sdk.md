@@ -1,4 +1,4 @@
-# 从浏览器内核到跨境工作台：我们如何基于 ChroviaSDK 打造美客跨境浏览器
+# 从浏览器内核到跨境工作台：我们如何基于 ChroviaSDK 打造美客浏览器
 
 [English](../en/building-merca-with-chrovia-sdk.md)
 
@@ -6,7 +6,7 @@
 
 这些问题，靠多开几个浏览器窗口并不能解决。
 
-因此，我们基于 ChroviaSDK 开发了美客跨境浏览器（Merca），也叫美客浏览器。它是一款面向跨境卖家的防关联指纹浏览器，也是一套把店铺环境、网络、登录凭证和团队权限整合在一起的多店铺工作台。
+因此，我们基于 ChroviaSDK 开发了美客浏览器（Merca）。它是一款面向跨境卖家的防关联指纹浏览器，也是一套把店铺环境、网络、登录凭证和团队权限整合在一起的多店铺工作台。
 
 **让每家店铺都像在独立设备上运营。** 这是美客希望带来的体验：让日常管理不再依赖运营人员反复核对和手动切换。
 
@@ -131,13 +131,13 @@ SDK 提供的是浏览器能力，美客将这些能力组织成跨境卖家可�
 
 ## 体验美客，或打造你自己的浏览器
 
-美客跨境浏览器目前提供 Windows 和 macOS 客户端，面向亚马逊、Shopee、TikTok Shop 等跨境电商平台的多店铺运营场景。
+美客浏览器目前提供 Windows 和 macOS 客户端，面向亚马逊、Shopee、TikTok Shop 等跨境电商平台的多店铺运营场景。
 
 如果你是跨境卖家，希望把店铺环境、网络节点、登录工具和团队协作放进同一个工作台，可以从美客开始。
 
 如果你正在规划自己的浏览器产品，美客则展示了 ChroviaSDK 的一种落地方式：把浏览器底层能力交给 SDK，把开发精力放在用户真正需要的产品体验上。
 
-- [了解与下载美客跨境浏览器](https://merca.getchrovia.com/zh)
+- [了解与下载美客浏览器](https://merca.getchrovia.com/zh)
 - [了解 ChroviaSDK](https://console.getchrovia.com/products/sdk)
 - [下载 Chrovia Studio，体验 SDK 能力](https://console.getchrovia.com/download)
 - 商业授权与合作：<support@getchrovia.com>
