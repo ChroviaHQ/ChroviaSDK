@@ -11,6 +11,7 @@ Kernel capabilities live in the browser, not in injected scripts. Enable them wi
 Notes and product stories from building browsers with ChroviaSDK, published in [English](devlogs/en/) and [简体中文](devlogs/zh/).
 
 - **Building Merca with ChroviaSDK: A Browser Built for Multi-Store Commerce** — [English](devlogs/en/building-merca-with-chrovia-sdk.md) / [中文](devlogs/zh/building-merca-with-chrovia-sdk.md)
+- **Desktop Fingerprint Emulation for Linux Headless Crawling with Chrovia** — [English](devlogs/en/linux-headless-web-crawling-with-chrovia.md) / [中文](devlogs/zh/linux-headless-web-crawling-with-chrovia.md)
 
 ## Why not fork Chromium yourself
 
